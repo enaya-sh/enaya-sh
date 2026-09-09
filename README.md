@@ -57,8 +57,10 @@ I designed and implemented the platform end-to-end as a solo developer, includin
 **MSc, Data Science and Society**  
 Tilburg University
 
+
 **Master's, Business Administration – Marketing**  
 Islamic Azad University, Science and Research Branch
+
 
 **BSc, Computer Software Engineering**  
 Payame Noor University
